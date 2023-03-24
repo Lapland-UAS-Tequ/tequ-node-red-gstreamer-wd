@@ -27,8 +27,8 @@
             ]
         },
         {
-            "x": 900,
-            "y": 80,
+            "x": 940,
+            "y": 60,
             "wires": [
                 {
                     "id": "7c4532b896f20cb3",
@@ -52,7 +52,7 @@
     ],
     "outputLabels": [
         "Restart cmd out",
-        ""
+        "Input msg out"
     ],
     "icon": "font-awesome/fa-search",
     "status": {
@@ -273,12 +273,12 @@
             ]
         },
         {
-            "id": "3dc32cdadbbda458",
+            "id": "98dd8979abd08a9a",
             "type": "subflow:2403dae10c7a6dba",
             "z": "7b248573a2bd55b0",
             "name": "",
-            "x": 460,
-            "y": 440,
+            "x": 400,
+            "y": 600,
             "wires": [
                 [],
                 []
