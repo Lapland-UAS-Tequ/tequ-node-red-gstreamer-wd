@@ -7,7 +7,7 @@ Watchdog for tequ-node-red-gstreamer node.
 
 Run the following command in your Node-RED user directory - typically `~/.node-red`
 
-        npm install tequ-node-red-gstreamer-wd
+        npm install Lapland-UAS-Tequ/tequ-node-red-gstreamer-wd
 
 ## Information
 
